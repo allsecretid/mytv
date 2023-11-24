@@ -14,7 +14,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 <========================== News ==========================>
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU", Russia Today Documentary English - SD
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU", Russia Today Documentary English - SD
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary - SD 1
@@ -225,7 +225,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png", Fashion TV - SD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/500px-Logo_MAX_horizontal_on_white_.jpg", Max Stream - HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/500px-Logo_MAX_horizontal_on_white_.jpg", Max Stream - HD
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 
