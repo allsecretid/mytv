@@ -12,6 +12,599 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
+
+<========================== Indonesia ==========================>
+
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/1200px-RCTI%2B.svg.png" group-title="Indonesia Channels", RCTI HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="Indonesia Channels", MNC TV - HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Indonesia Channels", GTV - HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="Indonesia Channels", TransTV - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="Indonesia Channels", TransTV - HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png" group-title="Indonesia Channels",Trans7 - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png" group-title="Indonesia Channels",Trans7 - HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 tvg-id="MOJI" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Indonesia Channels", Moji - FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://103.166.27.2:8112/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="MOJI" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Indonesia Channels", Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#https://raw.githubusercontent.com/eepunx/cancan/main/moj
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="Indonesia Channels", SCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://raw.githubusercontent.com/eepunx/cancan/main/sc
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="Indonesia Channels", Indosiar - FHD
+http://103.166.27.2:8112/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="Indonesia Channels", Indosiar - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#https://raw.githubusercontent.com/eepunx/cancan/main/ind
+
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU" group-title="Indonesia Channels", NET TV - FHD
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/NET.m3u8
+
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU" group-title="Indonesia Channels", NET TV - HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Indonesia Channels", ANTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Indonesia Channels", ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="Indonesia Channels", DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="Indonesia Channels", DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.rajawali.com/wp-content/uploads/2017/04/Rajawali-Televisi.png" group-title="Indonesia Channels", RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" group-title="Indonesia Channels",Kompas TV - FHD
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/KompasTV.m3u8
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" group-title="Indonesia Channels",Kompas TV - HHD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" group-title="Indonesia Channels",Kompas TV - SD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia Channels", Metro TV - FHD
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/MetroTV.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia Channels", Metro TV - HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia Channels", Metro TV - SD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id"  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - FHD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700515279/ei/b3lbZa_OE4qIgwOGtayQBA/ip/20.55.14.225/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f65HMh7CgOX4RIQU7qtuWwsmOTOfeXCTxYSAAw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhALTKxlXgxGVXq-g-E52X_0zWEL5btgVNoOa-ZfK6XmrOAiEA1CWwLZpzwj7IRL2VSHNWyTU2rLVcBm4wLp6Yq9yM4Fk%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id"  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - SD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id"  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id"  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/250px-SindoNewsTV_2023.png" group-title="Indonesia Channels", SindoNews - HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Indonesia Channels", iNews - HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/800px-BTV_%28Indonesia%29_logo.svg.png" group-title="Indonesia Channels",BTV -HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg", Citra Muslim - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png", Citra Bioskop - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://4.bp.blogspot.com/-OwTTtRqsl-g/XYSjJWsMKpI/AAAAAAAAoik/ZAF_xHk4frovlEifMUxRi_V-Pj6bIFV-ACLcBGAsYHQ/s1600/citra-dramat-plus-channel-logo.png", Citra Drama - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png", Citra Dangdut - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png", Citra Entertainment - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png", CNBC Indonesia - HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/1200px-Logo_of_CNN_Indonesia.svg.png", CNN Indonesia - HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mentari_TV.png/480px-Mentari_TV.png", Mentari TV - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://iptvid.my.id/hmm/nadyabcc/kampang/mentaritv.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png", SEA Today - SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png", Trans TV - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png", Trans TV - SD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - HD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - SD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Aceh - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Aceh - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bali - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bali - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bangka Belitung - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bangka Belitung - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bengkulu - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bengkulu - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI DKI Jakarta - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI DKI Jakarta - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Gorontalo - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Gorontalo - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jambi - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jambi - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Barat - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Barat - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Tengah - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Tengah - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Timur - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Timur - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Barat - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Barat - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Selatan - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Selatan - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Tengah - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Tengah - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Timur - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Timur - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Lampung - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Lampung - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Maluku - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Maluku - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nusa Tenggara Barat - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nusa Tenggara Barat - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nusa Tenggara Timur - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nusa Tenggara Timur - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Papua - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Papua - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Riau - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Riau - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Barat - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Barat - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Selatan - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Selatan - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Tengah - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Tengah - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Tenggara - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Tenggara - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sumatera Barat - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sumatera Barat - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sumatera Selatan - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sumatera Selatan - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Yogyakarta - SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Yogyakarta - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/220px-TVRI_Sport_2022.svg.png", TVRI Sport - HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/220px-TVRI_Sport_2022.svg.png", TVRI Sport - HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/220px-TVRI_Sport_2022.svg.png", TVRI Sport - HD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/220px-TVRI_Sport_2022.svg.png", TVRI Sport - HD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/220px-TVRI_Sport_2022.svg.png", TVRI Sport - SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h238/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png", TVRI World - HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png", TVRI World - HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/ZREy4zM.png", Biznet Adventure - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/J5QNqJ0.png", Biznet Kids - SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/XqUfQKA.png", Biznet Lifestyle - SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_RRI_NET_2023.png/50px-Logo_RRI_NET_2023.png", RRI Net - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://rrinet.rri.co.id/hls/live.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png", Metro Globe Network - FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png", Magna Channel - FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV - SD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png", Jakarta Globe News - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV - SD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg", Lifestyle Firstmedia - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jawa_Pos_TV_2021.png/200px-Jawa_Pos_TV_2021.png", Jawa Pos TV - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png", Bali TV - HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png", Bandung TV - SD 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png", Bandung TV - SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b7/IDTV.png/200px-IDTV.png", IDTV - HD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/1280px-Logo_GarudaTV_Merah_Flat_2022.svg.png", Garuda TV - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/IDX_Channel.png/150px-IDX_Channel.png", IDX Channel - SD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/IDX_Channel.png/150px-IDX_Channel.png", IDX Channel - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://photos.live-tv-channels.org/tv-logo/indonesiana-tv-6088.webp", Indonesiana TV - FHD
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", Pesona Indonesia TV - SD
+https://h1.intechmedia.net/intech/ch92.m3u8
+
+
+
+
+
+
+
 <========================== News ==========================>
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-PHI1MHxGuDDxWhSSYZuYXUNXVdTtRRgFg&usqp=CAU", Russia Today Documentary English - SD
@@ -616,572 +1209,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 
 
 
-<========================== Indonesia ==========================>
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg", Citra Muslim - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png", Citra Bioskop - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://4.bp.blogspot.com/-OwTTtRqsl-g/XYSjJWsMKpI/AAAAAAAAoik/ZAF_xHk4frovlEifMUxRi_V-Pj6bIFV-ACLcBGAsYHQ/s1600/citra-dramat-plus-channel-logo.png", Citra Drama - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png", Citra Dangdut - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png", Citra Entertainment - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png", CNBC Indonesia - HD
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/1200px-Logo_of_CNN_Indonesia.svg.png", CNN Indonesia - HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png", GTV - HD 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png", GTV - HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683121&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="Indonesia", Indosiar - FHD
-http://103.166.27.2:8112/play/a016/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="Indonesia", Indosiar - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://raw.githubusercontent.com/eepunx/cancan/main/ind
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="Indonesia", Indosiar - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://raw.githubusercontent.com/eepunx/cancan/main/ind
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png", iNews - HD 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png", iNews - HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/157579
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png", Kompas TV - FHD
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/KompasTV.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png", Kompas TV - HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png", Kompas TV - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mentari_TV.png/480px-Mentari_TV.png", Mentari TV - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://iptvid.my.id/hmm/nadyabcc/kampang/mentaritv.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", Metro TV - FHD
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/MetroTV.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", Metro TV - HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", Metro TV - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png", MNC TV - HD 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png", MNC TV - HD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png", Moji TV - FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://103.166.27.2:8112/play/a017/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png", Moji TV - SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://raw.githubusercontent.com/eepunx/cancan/main/moj
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU", NET.TV - FHD
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/NET.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU", NET.TV - HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/1200px-RCTI%2B.svg.png", RCTI - HD 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/1200px-RCTI%2B.svg.png", RCTI - HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf 
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png", SCTV - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://mantul.biz.id:443/ekos/748382/32.ts
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png", SCTV - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://raw.githubusercontent.com/eepunx/cancan/main/sc
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png", SCTV - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png", SEA Today - SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png", Trans 7 - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png", Trans 7 - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png", Trans TV - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png", Trans TV - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU", TVONE - FHD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700515279/ei/b3lbZa_OE4qIgwOGtayQBA/ip/20.55.14.225/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f65HMh7CgOX4RIQU7qtuWwsmOTOfeXCTxYSAAw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhALTKxlXgxGVXq-g-E52X_0zWEL5btgVNoOa-ZfK6XmrOAiEA1CWwLZpzwj7IRL2VSHNWyTU2rLVcBm4wLp6Yq9yM4Fk%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU", TVONE - HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU", TVONE - HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU", TVONE - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - HD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h237/01.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nasional - SD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Aceh - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Aceh - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bali - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bali - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bangka Belitung - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bangka Belitung - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bengkulu - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Bengkulu - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI DKI Jakarta - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI DKI Jakarta - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Gorontalo - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Gorontalo - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jambi - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jambi - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Barat - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Barat - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Tengah - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Tengah - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Timur - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Jawa Timur - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Barat - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Barat - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Selatan - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Selatan - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Tengah - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Tengah - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Timur - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Kalimantan Timur - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Lampung - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Lampung - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Maluku - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Maluku - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nusa Tenggara Barat - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nusa Tenggara Barat - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nusa Tenggara Timur - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Nusa Tenggara Timur - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Papua - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Papua - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Riau - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Riau - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Barat - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Barat - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Selatan - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Selatan - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Tengah - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Tengah - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Tenggara - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sulawesi Tenggara - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sumatera Barat - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sumatera Barat - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sumatera Selatan - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Sumatera Selatan - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Yogyakarta - SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", TVRI Yogyakarta - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/220px-TVRI_Sport_2022.svg.png", TVRI Sport - HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/220px-TVRI_Sport_2022.svg.png", TVRI Sport - HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/220px-TVRI_Sport_2022.svg.png", TVRI Sport - HD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/220px-TVRI_Sport_2022.svg.png", TVRI Sport - HD 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/220px-TVRI_Sport_2022.svg.png", TVRI Sport - SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://op-group1-swiftservehd-1.dens.tv/h/h238/01.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png", TVRI World - HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png", TVRI World - HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/800px-BTV_%28Indonesia%29_logo.svg.png", BeritaSatu - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/ZREy4zM.png", Biznet Adventure - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/J5QNqJ0.png", Biznet Kids - SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/XqUfQKA.png", Biznet Lifestyle - SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_RRI_NET_2023.png/50px-Logo_RRI_NET_2023.png", RRI Net - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://rrinet.rri.co.id/hls/live.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png", Metro Globe Network - FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png", Magna Channel - FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.rajawali.com/wp-content/uploads/2017/04/Rajawali-Televisi.png", RTV - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png", Jakarta Globe News - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg", Lifestyle Firstmedia - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jawa_Pos_TV_2021.png/200px-Jawa_Pos_TV_2021.png", Jawa Pos TV - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png", Bali TV - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png", DAAI TV - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png", DAAI TV - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png", DAAI TV - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png", Bandung TV - SD 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png", Bandung TV - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b7/IDTV.png/200px-IDTV.png", IDTV - HD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/250px-SindoNewsTV_2023.png", SindoNews TV - HD 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/1280px-Logo_GarudaTV_Merah_Flat_2022.svg.png", Garuda TV - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/IDX_Channel.png/150px-IDX_Channel.png", IDX Channel - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/IDX_Channel.png/150px-IDX_Channel.png", IDX Channel - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://photos.live-tv-channels.org/tv-logo/indonesiana-tv-6088.webp", Indonesiana TV - FHD
-https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", Pesona Indonesia TV - SD
-https://h1.intechmedia.net/intech/ch92.m3u8
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.googleusercontent.com/TgL5KUN48UWo9ADJskGN0NEDD7QJRUvyotOQ5_i0X5fitOERE-d4Utvw8LQNSX9yXgKNmeaJZO4=s176-c-k-c0x00ffffff-no-rj", The K-POP - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/Live.m3u8
