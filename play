@@ -1,76 +1,14 @@
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png", Love Nature - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
 
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Dirtyjobslogo.JPG", Dirty Jobs - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/500px-Logo_MAX_horizontal_on_white_.jpg", Max Stream - HD
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/ZREy4zM.png", Biznet Adventure - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/J5QNqJ0.png", Biznet Kids - SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/XqUfQKA.png", Biznet Lifestyle - SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_RRI_NET_2023.png/50px-Logo_RRI_NET_2023.png", RRI Net - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://rrinet.rri.co.id/hls/live.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png", Jakarta Globe News - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV - SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg", Lifestyle Firstmedia - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jawa_Pos_TV_2021.png/200px-Jawa_Pos_TV_2021.png", Jawa Pos TV - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png", Bali TV - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png", Bandung TV - SD 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png", Bandung TV - SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/1280px-Logo_GarudaTV_Merah_Flat_2022.svg.png", Garuda TV - SD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", Pesona Indonesia TV - SD
-https://h1.intechmedia.net/intech/ch92.m3u8
 
 
 
@@ -254,6 +192,59 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia Channels", Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_RRI_NET_2023.png/50px-Logo_RRI_NET_2023.png", RRI Net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://rrinet.rri.co.id/hls/live.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png", Jakarta Globe News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg", Lifestyle Firstmedia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jawa_Pos_TV_2021.png/200px-Jawa_Pos_TV_2021.png", Jawa Pos TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png", Bali TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png", Bandung TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png", Bandung TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/1280px-Logo_GarudaTV_Merah_Flat_2022.svg.png", Garuda TV - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", Pesona Indonesia TV - SD
+https://h1.intechmedia.net/intech/ch92.m3u8
 
 
 <==================================== TVRI GRoup =========================================>
@@ -957,6 +948,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index
 
 
 <========================== Kids Channels ==========================>
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/J5QNqJ0.png", Biznet Kids - SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1129,6 +1123,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/inde
 
 
 <========================== Knowledge & Documentary ==========================>
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://i.imgur.com/ZREy4zM.png", Biznet Adventure
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png", Love Nature
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Dirtyjobslogo.JPG", Dirty Jobs
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 
 #EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Knowledge & Documentary", History HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1223,6 +1226,12 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 
 
 <=================== Entertainment & Lifestyle =============================>
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://i.imgur.com/XqUfQKA.png", Biznet Lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/500px-Logo_MAX_horizontal_on_white_.jpg", Max Stream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 #EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="Entertainment & LifeStyle", AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
