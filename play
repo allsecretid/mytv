@@ -1,3 +1,6 @@
+﻿#EXTM3U
+#EXTM3U url-tvg="http://bit.ly/maytvEPG"
+#EXTM3U x-url-tvg="http://bit.ly/maytvEPG"
 <========================== Test Key ==========================>
 
 #EXTINF:-1 group-title="Test_Key" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo1.png1", test 1
