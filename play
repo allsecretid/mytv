@@ -1315,7 +1315,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg", Citra Muslim
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg", Citra Muslim
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png" group-title="Entertainment & LifeStyle", Citra Entertainment
@@ -1866,5 +1866,5 @@ http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VividREDHD.us" tvg-logo="https://i.imgur.com/RzKXbIc.png" group-title="XXX",Vivid Red HD (576p)
 http://85.11.144.9:4222/VividTVEurope?token=test
-#EXTINF:-1 tvg-id="XXXCartoons.de" tvg-logo="https://i.imgur.com/kNYY78z.png" group-title="Animation;XXX",XXX Cartoons (520p)
+#EXTINF:-1 tvg-id="XXXCartoons.de" tvg-logo="https://i.imgur.com/kNYY78z.png" group-title="XXX",XXX Cartoons (520p)
 http://144.76.58.245:2307/cartoon/index.m3u8
