@@ -18,39 +18,39 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 <========================== Indonesia ==========================>
 
-#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/1200px-RCTI%2B.svg.png" group-title="Indonesia Channels", RCTI HD
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/1200px-RCTI%2B.svg.png" group-title="Indonesia Channels", RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="Indonesia Channels", MNC TV - HD
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="Indonesia Channels", MNC TV - HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Indonesia Channels", GTV - HD
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Indonesia Channels", GTV - HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="Indonesia Channels", TransTV - HD
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="Indonesia Channels", TransTV - HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 
-#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="Indonesia Channels", TransTV - HD
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="Indonesia Channels", TransTV - HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png" group-title="Indonesia Channels",Trans7 - HD
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png" group-title="Indonesia Channels",Trans7 - HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png" group-title="Indonesia Channels",Trans7 - HD
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png" group-title="Indonesia Channels",Trans7 - HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -64,30 +64,30 @@ http://103.166.27.2:8112/play/a017/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://raw.githubusercontent.com/eepunx/cancan/main/moj
 
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="Indonesia Channels", SCTV 
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="Indonesia Channels", SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://raw.githubusercontent.com/eepunx/cancan/main/sc
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="Indonesia Channels", Indosiar - FHD
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="Indonesia Channels", Indosiar - FHD
 http://103.166.27.2:8112/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="Indonesia Channels", Indosiar - HD
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="Indonesia Channels", Indosiar - HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #https://raw.githubusercontent.com/eepunx/cancan/main/ind
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU" group-title="Indonesia Channels", NET TV - FHD
+#EXTINF:-1 tvg-id="NET.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU" group-title="Indonesia Channels", NET TV - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/NET.m3u8
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU" group-title="Indonesia Channels", NET TV - HD
+#EXTINF:-1 tvg-id="NET.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU" group-title="Indonesia Channels", NET TV - HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Indonesia Channels", ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Indonesia Channels", ANTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
 
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Indonesia Channels", ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Indonesia Channels", ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -109,44 +109,44 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/i
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" group-title="Indonesia Channels",Kompas TV - FHD
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" group-title="Indonesia Channels",Kompas TV - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/KompasTV.m3u8
 
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" group-title="Indonesia Channels",Kompas TV - HHD
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" group-title="Indonesia Channels",Kompas TV - HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
 
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" group-title="Indonesia Channels",Kompas TV - SD
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" group-title="Indonesia Channels",Kompas TV - SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia Channels", Metro TV - FHD
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia Channels", Metro TV - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/MetroTV.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia Channels", Metro TV - HD
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia Channels", Metro TV - HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia Channels", Metro TV - SD
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Indonesia Channels", Metro TV - SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id"  tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - FHD
+#EXTINF:-1 tvg-id="tvOne.id"  tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - FHD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700515279/ei/b3lbZa_OE4qIgwOGtayQBA/ip/20.55.14.225/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f65HMh7CgOX4RIQU7qtuWwsmOTOfeXCTxYSAAw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhALTKxlXgxGVXq-g-E52X_0zWEL5btgVNoOa-ZfK6XmrOAiEA1CWwLZpzwj7IRL2VSHNWyTU2rLVcBm4wLp6Yq9yM4Fk%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id"  tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - SD
+#EXTINF:-1 tvg-id="tvOne.id"  tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id"  tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - SD
+#EXTINF:-1 tvg-id="tvOne.id"  tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id"  tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - SD
+#EXTINF:-1 tvg-id="tvOne.id"  tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NHI5Rri5LtIbbKZq-4frSaFsk2qhB--0Q&usqp=CAU" group-title="Indonesia Channels", TVOne - SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
@@ -156,17 +156,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Indonesia Channels", iNews - HD
+#EXTINF:-1 tvg-id="iNews.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Indonesia Channels", iNews - HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/800px-BTV_%28Indonesia%29_logo.svg.png" group-title="Indonesia Channels",BTV -HD
+#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/800px-BTV_%28Indonesia%29_logo.svg.png" group-title="Indonesia Channels",BTV -HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png" group-title="Indonesia Channels", TVRI Nasional
+#EXTINF:-1 tvg-id="TVRI.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png" group-title="Indonesia Channels", TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
@@ -182,34 +182,34 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia Channels", Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_RRI_NET_2023.png/50px-Logo_RRI_NET_2023.png", RRI Net
+#EXTINF:-1 tvg-id="RRI.id" group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_RRI_NET_2023.png/50px-Logo_RRI_NET_2023.png", RRI Net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://rrinet.rri.co.id/hls/live.m3u8
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV
+#EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV
+#EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JakTV
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png", Jakarta Globe News
+#EXTINF:-1 tvg-id="JakartaGlobeNews.id" group-title="Indonesia Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png", Jakarta Globe News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV
+#EXTINF:-1 tvg-id="JTV.id group-title="Indonesia Channels" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg", Lifestyle Firstmedia
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV - SD
+#EXTINF:-1 tvg-id="JTV.id group-title="Indonesia Channels" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV - SD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg", Lifestyle
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jawa_Pos_TV_2021.png/200px-Jawa_Pos_TV_2021.png", Jawa Pos TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -483,7 +483,7 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/2560px-CNN-International-Logo.svg.png", CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="ABC Australia - [Channel 350].id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/800px-ABC_Australia_logo.svg.png" , ABC Australia
+#EXTINF:-1 group-title="News" tvg-id="ABCAustralia.id" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/800px-ABC_Australia_logo.svg.png" , ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
