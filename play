@@ -1201,7 +1201,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-url="https://s.id/MaytvEPG" tvg-logo="https://logowik.com/content/uploads/images/crime-investigation-network4779.jpg" group-title="Knowledge & Documentary", Crime Investigation
-https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-url="https://s.id/MaytvEPG" tvg-logo="https://logowik.com/content/uploads/images/crime-investigation-network4779.jpg" group-title="Knowledge & Documentary", Crime Investigation
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
