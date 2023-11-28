@@ -998,14 +998,12 @@ http://iptvid.my.id/hmm/nadyabcc/kampang/mentaritv.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://s.id/MaytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="Kids", MyKids
 https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-url="https://s.id/MaytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids", ZooMoo
 https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
@@ -1031,7 +1029,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-url="https://s.id/MaytvEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" group-title="Kids", Kids TV
 https://nyanv-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
@@ -1058,14 +1055,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-url="https://s.id/MaytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/1200px-CBeebies_2023.svg.png" group-title="Kids", Cbeebies
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-id="BabyTV - [Channel 40].id" tvg-url="https://s.id/MaytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids", Baby TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
