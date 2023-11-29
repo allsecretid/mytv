@@ -1705,18 +1705,24 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/Live.m3u8
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
 
 
-<========================== VOD ==========================>
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/54sM9DFebF7YVQSPVJIxR0/25cb2e58d75fbd55e363b03d6e4ab2a3/en-GB_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg" group-title="VOD - Series", Gadis Kretek Ep-01 (2023)
+<========================== VOD Series ==========================>
+#EXTINF:-1 group-title="VOD - Series" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/54sM9DFebF7YVQSPVJIxR0/25cb2e58d75fbd55e363b03d6e4ab2a3/en-GB_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg", Gadis Kretek Ep-01 (2023)
 https://raw.githubusercontent.com/allsecretid/vod/main/Gadis%20Kretek%20(2023)/eps-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/54sM9DFebF7YVQSPVJIxR0/25cb2e58d75fbd55e363b03d6e4ab2a3/en-GB_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg" group-title="VOD - Series", Gadis Kretek Ep-02 (2023)
+#EXTINF:-1 group-title="VOD - Series" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/54sM9DFebF7YVQSPVJIxR0/25cb2e58d75fbd55e363b03d6e4ab2a3/en-GB_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg", Gadis Kretek Ep-02 (2023)
 https://raw.githubusercontent.com/allsecretid/vod/main/Gadis%20Kretek%20(2023)/eps-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/54sM9DFebF7YVQSPVJIxR0/25cb2e58d75fbd55e363b03d6e4ab2a3/en-GB_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg" group-title="VOD - Series", Gadis Kretek Ep-03 (2023)
+#EXTINF:-1 group-title="VOD - Series" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/54sM9DFebF7YVQSPVJIxR0/25cb2e58d75fbd55e363b03d6e4ab2a3/en-GB_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg", Gadis Kretek Ep-03 (2023)
 https://raw.githubusercontent.com/allsecretid/vod/main/Gadis%20Kretek%20(2023)/eps-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/54sM9DFebF7YVQSPVJIxR0/25cb2e58d75fbd55e363b03d6e4ab2a3/en-GB_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg" group-title="VOD - Series", Gadis Kretek Ep-04 (2023)
+#EXTINF:-1 group-title="VOD - Series" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/54sM9DFebF7YVQSPVJIxR0/25cb2e58d75fbd55e363b03d6e4ab2a3/en-GB_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg", Gadis Kretek Ep-04 (2023)
 https://raw.githubusercontent.com/allsecretid/vod/main/Gadis%20Kretek%20(2023)/eps-4.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/54sM9DFebF7YVQSPVJIxR0/25cb2e58d75fbd55e363b03d6e4ab2a3/en-GB_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg" group-title="VOD - Series", Gadis Kretek Ep-05 (2023)
+#EXTINF:-1 group-title="VOD - Series" tvg-logo="https://images.ctfassets.net/4cd45et68cgf/54sM9DFebF7YVQSPVJIxR0/25cb2e58d75fbd55e363b03d6e4ab2a3/en-GB_cg_main_dasiya__vertical_27x40_rgb_pre_1.jpg", Gadis Kretek Ep-05 (2023)
 https://raw.githubusercontent.com/allsecretid/vod/main/Gadis%20Kretek%20(2023)/eps-5.m3u8
+
+
+
+<========================== VOD Movies ==========================>
+#EXTINF:-1 group-title="VOD - Movies" tvg-logo="https://movies.universalpictures.com/media/fstx-montage1sheet2-rgb-1-64108e93e63dd-1.jpg", Fast X (2023)
+https://raw.githubusercontent.com/allsecretid/vod/main/Fast%20X%20(2023)/fast_x
